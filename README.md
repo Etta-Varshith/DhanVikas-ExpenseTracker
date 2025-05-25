@@ -3,6 +3,7 @@
 ## Tech Stack : MERN
 - Frontend: React 
 - Backend: Node.js / Express
+- Database: MongoDB
 
 ## Instructions
 1. Clone the repository
