@@ -1,4 +1,4 @@
-## My Personal Expense Tracker Full-Stack Project
+## DhanVikas - A Comprehensive Expense Tracker Full-Stack Project
 
 ## Tech Stack : MERN
 - Frontend: React 
