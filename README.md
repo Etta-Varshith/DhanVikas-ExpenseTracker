@@ -1,8 +1,9 @@
-## My Personal Expense Tracker Full-Stack Project
+## DhanVikas - A Comprehensive Expense Tracker Full-Stack Project
 
 ## Tech Stack : MERN
 - Frontend: React 
 - Backend: Node.js / Express
+- Database: MongoDB
 
 ## Instructions
 1. Clone the repository
